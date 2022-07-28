@@ -1,1 +1,4 @@
 # amazon
+login
+password
+email 
